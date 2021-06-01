@@ -4,13 +4,36 @@ body {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
+button {
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 10px 25px;
+}
+
 .page-nav{
     background-color: rgb(67, 134, 11);
     border: 1px solid black;
+    position: relative;
 }
 
 .page-nav h1 {
     margin:  20px;
+}
+
+.button-checkout{
+    background-color: rgba(255, 255, 255, 0.74);
+    color: black;
+    border: 2px solid #008CBA;
+    transition-duration: 0.4s;
+    position: absolute;
+    right: 15px;
+    bottom: 10px;
+}
+
+.button-checkout:hover {
+    background-color: #008CBA;
+    color: rgb(255, 255, 255);
 }
 
 .page-content {
@@ -38,10 +61,6 @@ body {
 }
 
 .button-add {
-    font-size: 16px;
-    text-align: center;
-    border-radius: 8px;
-    padding: 10px 25px;
     background-color: rgba(255, 255, 255, 0.74);
     color: black;
     border: 2px solid #4CAF50;
