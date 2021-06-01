@@ -38,7 +38,7 @@ img{
     color: green;
 }
 .azul{
-    color:rgb(20, 76, 160);
+    color:rgb(0, 97, 243);
 }
 .amarillo{
     color:rgb(241, 238, 37);
@@ -55,7 +55,7 @@ img{
 .grande{
     font-size: 50px;
     font-family: 'Bangers', cursive;
-    text-decoration:overline;
+    text-decoration:underline;
     
 }
 .mediana{
