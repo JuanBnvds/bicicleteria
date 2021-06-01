@@ -1,0 +1,82 @@
+
+body{
+   background-image: url('fondo.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+img{
+    width: 700px;
+    height: 400px;
+    
+}
+
+
+#centrado{
+    text-align: center;
+}
+
+#parrafo1{
+    font-size:xx-large;
+}
+#parrafo2{
+    font-size:xx-small;
+}
+#parrafo3{
+    font-size: x-large;
+}
+
+
+.naranja{
+    color: rgb(255, 101, 29)
+}
+.rojo{
+    color: red;
+}
+.verde{
+    color: green;
+}
+.azul{
+    color:rgb(20, 76, 160);
+}
+.amarillo{
+    color:rgb(241, 238, 37);
+}
+.derecha{
+    text-align: right;
+}
+.izquierda{
+    text-align: left;
+}
+.centrado{
+    text-align: center;
+}
+.grande{
+    font-size: 50px;
+    font-family: 'Bangers', cursive;
+    text-decoration:overline;
+    
+}
+.mediana{
+    font-size: 25px;
+    
+    font-family:Georgia, 'Times New Roman', Times, serif, cursive;
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-register{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+}
