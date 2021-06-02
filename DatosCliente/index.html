@@ -79,17 +79,22 @@
                         <label class= "mediana naranja" for="Edad">Ingresa tu edad*</label>
                         <input name="Edad" class="form-control" type="number"  id="Edad" placeholder="Ej: 19" required>
                     </div>
-            
-                    <div class="form-group">
-                        <label class= "mediana naranja" for="Correo">Ingresa tu correo electrónico *</label>
-                        <input name="Correo" class="form-control" type="email" id="Correo" placeholder="Ej: BrandonSemenuk@gmail.com" required>  
-                    </div>
-               
+                    
                     <div class="form-group">
                         <label class= "mediana naranja" for="Nombre">Ingresa tu Nombre Completo *</label>
                         <input name="Nombre" class="form-control" type="text" id="Nombre" placeholder="Ej: Brandon Semenuk " required>
                     </div>
-               
+
+                    <div class="form-group">
+                        <label class= "mediana naranja" for="Correo">Ingresa tu correo electrónico *</label>
+                        <input name="Correo" class="form-control" type="email" id="Correo" placeholder="Ej: BrandonSemenuk@gmail.com" required>  
+                    </div> 
+                    
+                    <div class="form-group">
+                        <label class= "mediana naranja" for="rut">Ingresa tu rut*</label>
+                        <input type="text" id="rut" class="form-control"  name="rut" required oninput="checkRut(this)" placeholder="Ingrese RUT">
+                    </div>
+
                     <div class="form-group">
                         <label class= "mediana naranja" for="numero">Ingresa tu número de celular sin el prefijo *</label>
                         <input name="numero" class="form-control" type="text" id="numero" placeholder="Ej: 971209289" required>
@@ -122,7 +127,7 @@
                         </select>
                     </div>
 
-                    <label class= "mediana naranja" for="comentario">Escribe un pequeño texto sobre ¿Por qué te gustan las bicicletas?*</label>
+                    <label class= "mediana naranja" for="comentario">¿Por qué te gustan las bicicletas?*</label>
                     <textarea cols="20" id="comentario" rows="5" placeholder="..." required></textarea>
                     <br>
                     <input type="submit" class="btn btn-primary" id="enviar" name="enviar" value="enviar" />
