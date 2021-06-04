@@ -1,0 +1,20 @@
+body{
+    background-image: url('fondo2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+ }
+ 
+ .blanco{
+     color: rgb(255, 255, 255);
+ }
+ .azul{
+    color: rgb(0, 108, 209);
+}
+.grande{
+    font-size: 50px;
+    text-decoration:underline;
+}
+.mediana{
+    font-size: 25px;
+}
