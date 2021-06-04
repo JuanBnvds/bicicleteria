@@ -85,6 +85,9 @@ button {
 #centrado{
     text-align: center;
 }
+.centrado{
+    text-align: center;
+}
 
 .grande{
     font-size: 50px;
