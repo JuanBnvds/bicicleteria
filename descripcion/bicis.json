@@ -1,0 +1,42 @@
+[
+        {
+            "nombreBici":"Canyon Sender",
+            "Descripcion":"La geometría de la Sender CFR pone al alcance de cualquier corredor lo que se necesita para ganar en los actuales circuitos de DH. La distancia entre ejes más larga aumenta la estabilidad a altas velocidades. El alcance y la longitud de vainas ajustables le dan a la Sender CFR una versatilidad sin igual, permitiendo a los riders ajustar la bicicleta a su estilo de conducción o a las características de cada circuito."
+        },
+        {
+            "nombreBici":"Commencal Supreme DH",
+            "Descripcion":" La SUPREME DH versión 27.5'' tiene las mismas características que la 29'', con una cinemática de punto de pivote alto y un reach extendido para aumentar la estabilidad de la bicicleta. Con sus ruedas de 27,5 la SUPREME 27 es dinámica y fácil de manejar, lo que la convierte en un arma siempre formidable en competición. Esto también es posible gracias a su geometría. Por último, tan estable como juguetona, aquí viene un modelo fácil de manejar para hacer los mejores tiempos en DH. ¡Como el buen vino, la versión SUPREME 27.5'' sigue mejorando a lo largo de los años"
+        },
+        {
+            "nombreBici":"Specialized S-Works Demo 8",
+            "Descripcion":"Con múltiples títulos de Campeona del Mundo, la Demo 8 FSR es la bici de descenso más rápida. Con 200mm de recorrido trasero, suspensión FSR, amortiguador Öhlins TTX22M y horquilla RockShox Boxxer World Cup, rezuma competición por los cuatro costados."
+        },
+        {
+            "nombreBici":"Devinci Wilson ",
+            "Descripcion":"Devinci Wilson Carbon SL es un arma a tener en cuenta. Requisado por las élites DGR como Steve Smith, Mark Wallace y Brage Vestavik, paseo insignia de DH Devinci cuenta con un avanzado triángulo delantero de aluminio synergized con una acumulación de carbón trasera impulsado por EPS moldeados tecnología de trama para más ligera, más rígida, el rendimiento más fuerte. "
+        },
+        {
+            "nombreBici":"Scott Gambler",
+            "Descripcion":"La Gambler 10 es una replica de la bicicleta que usa Brendan Fairclough en la copa del mundo de descenso. es una bicicleta de descenso creada sin concesiones de ningun tipo. posee un amortiguador trasero customizado especialmente por Fox Racing, y unos componentes que han estado en los mejores podios. La Gambler tiene una geometria mas baja, una suspension mas larga y adaptada. Es una maquina digna de la copa del mundo."
+        },
+        {
+            "nombreBici":"Kona Operator",
+            "Descripcion":"¿Qué hace que las bicicletas de descenso sean tan especiales? Son confiables. Te llevan a través de las secciones más locas del sendero. Son rápidos. Te enseñan confianza. Siempre han sido las máquinas a las que acudir cuando las cosas se ponen difíciles y difíciles. Con un RockShox Boxxer Select Debonair en la parte delantera y un Super Deluxe Coil Select en la parte trasera, y una transmisión SRAM confiable, el Operator es su compañero confiable para los golpes más pesados y las pistas más rápidas."
+        },
+        {
+            "nombreBici":"Pivot Phoenix DH",
+            "Descripcion":"La Phoenix DH Carbon, llega en 2016 con el nuevo cuadro de carbono, menor peso, más rígida, más rápida y nuevas características. Con un chasis DH técnicamente más avanzado y el más ligero del mundo. Trabajando directamente con nuestro equipo Pivot Factory Downhill Racing Team y Aaron Chase el cuadro Phoenix DH Carbon se ha reducido en más de 2/3 de libras. Cuenta con ruedas de 27,5” y más características bajadoras. En conjunto, se trata de una máquina que te puede llevar directamente a la cima del podio."
+        },
+        {
+            "nombreBici":"Treck Session 9.9",
+            "Descripcion":"La Session ostenta el título de campeona de la copa del mundo y ha demostrado ser la bici de descenso más rápida. Y gracias a su increíble suspensión, no cabe duda de que es la mejor bici de descenso de todos los tiempos. Necesitas una bici que no sólo resista las brutales exigencias de los descensos, sino que marque diferencias. Necesitas una bici campeona de la copa del mundo. Necesitas una Session."
+        },
+        {
+            "nombreBici":"Santa Cruz V10",
+            "Descripcion":"Fabricada íntegramente en fibra de carbono, esta Santa Cruz V10, presume ser la bicicleta de descenso mas ligera y resistente del mundo. Gracias sus técnicas de moldeado del carbono, Santa Cruz, ha conseguido aligerar en casi un kilo la V10, dejando el peso final del cuadro en 3,15 kg. Santa Cruz esta tan segura de su tecnología de fibra de carbono que ofrece una garantía de 5 años en su v10."
+        },
+        {
+            "nombreBici":"YT Industries Tues",
+            "Descripcion":"La YT Tues, la popular bicicleta de DH de YT Industries desarrollada con la estrecha colaboración de los corredores del YT Mob, recibe una nueva versión de 29 pulgadas para convertirse en la máquina de Descenso más rápida de la firma. El nuevo modelo estrena un cuadro de carbono optimizado para el mayor diámetro de rueda, pero manteniendo las características que han hecho de la versión de 27.5 pulgadas todo un éxito de ventas."
+        }
+    ]
