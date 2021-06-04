@@ -3,8 +3,6 @@ console.log('correcto');
 document.querySelector('#boton').addEventListener('click',traerDatos);
 
 function traerDatos(){
-    $.ajax({
-        async: false})
     console.log('dentro de la función')
     const xhttp = new XMLHttpRequest();
 
